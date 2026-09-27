@@ -7,7 +7,7 @@ A systematic trading framework built in Python, combining inverse-volatility Ris
 # Strategy & Performance Metrics (1-Year Backtest)
 
 | Metric | Risk Parity Strategy (SPY/GLD/BNO) | 100% SPY Benchmark |
-
+| :--- | :--- | :--- |
 | **Annualized Return** | **29.36%** | 18.08% |
 | **Annualized Volatility** | **12.69%** | 12.99% |
 | **Sharpe Ratio (Rf = 5.18%)** | **1.90** | 0.99 |
