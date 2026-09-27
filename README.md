@@ -2,7 +2,7 @@
 3-Asset Risk Parity Allocation Execution Engine in Python
 
 
-A 0-to-1 systematic trading framework built in Python, combining inverse-volatility Risk Parity allocation (SPY, GLD, BNO), dynamic backtesting, institutional risk metrics, and automated REST API order execution via Alpaca.
+A systematic trading framework built in Python, combining inverse-volatility Risk Parity allocation (SPY, GLD, BNO), dynamic backtesting, institutional risk metrics, and automated REST API order execution via Alpaca.
 
 # Strategy & Performance Metrics (1-Year Backtest)
 
